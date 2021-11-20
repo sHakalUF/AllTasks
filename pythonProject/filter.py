@@ -9,7 +9,7 @@ def task3(image_array, gradation_num=5, mosaic_size=10):
     line_len = len(image_array)
     column_len = len(image_array[0])
     grey_step = 256 // gradation_num
-    for i in range(0, line_ len, mosaic_size):
+    for i in range(0, line_len, mosaic_size):
         for j in range(0, column_len, mosaic_size):
             count = np.sum(image_array[i:i + mosaic_size, j:j + mosaic_size])
             count = int(count // 3 // mosaic_size // mosaic_size) // grey_step * grey_step
