@@ -5,3 +5,5 @@
 ![old_filter.py runtime](https://github.com/sHakalUF/AllTasks/blob/main/pythonProject/old_filter_time.jpg)
 Время filter_with_filename_time
 ![old_filter.py runtime](https://github.com/sHakalUF/AllTasks/blob/main/pythonProject/filter_with_filename_time.jpg)
+Вывод doctest
+![old_filter.py runtime](https://github.com/sHakalUF/AllTasks/blob/main/pythonProject/doctest.jpg)
